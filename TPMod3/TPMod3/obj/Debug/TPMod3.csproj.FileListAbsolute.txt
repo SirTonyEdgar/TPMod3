@@ -1,0 +1,10 @@
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\TPMod3\TPMod3\bin\Debug\TPMod3.exe.config
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\TPMod3\TPMod3\bin\Debug\TPMod3.exe
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\TPMod3\TPMod3\bin\Debug\TPMod3.pdb
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\TPMod3\TPMod3\obj\Debug\TPMod3.csproj.AssemblyReference.cache
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\TPMod3\TPMod3\obj\Debug\TPMod3.Form1.resources
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\TPMod3\TPMod3\obj\Debug\TPMod3.Properties.Resources.resources
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\TPMod3\TPMod3\obj\Debug\TPMod3.csproj.GenerateResource.cache
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\TPMod3\TPMod3\obj\Debug\TPMod3.csproj.CoreCompileInputs.cache
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\TPMod3\TPMod3\obj\Debug\TPMod3.exe
+E:\Telkom University\Telkom University Semester 4\Praktikum KRPL\TPMod3\TPMod3\obj\Debug\TPMod3.pdb
